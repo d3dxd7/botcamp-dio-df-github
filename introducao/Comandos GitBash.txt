@@ -1,0 +1,7 @@
+Git Clone --> Clonar Repositorio dentro da pasta selecionada pelo "CD"
+Git config --global user.email "EmailParaConfigurarEnvioNoGitHub"
+Git config --global user.name "Nome de Usuario" ...Pode ser qualquer nome
+Git Status --> Para Verificar os Arquivos e velos se tem algum Arquivo novo
+Git add . --> Para Validar os Arquivos criados 
+Git commit -m "Mensagem para Enviar Commit" --> Importante  Exemplo "Introducao ao Curso de Git/Github DIO
+Git push --> Envia todos os arquivos para github como pasta e arquivos dentro das pastas
