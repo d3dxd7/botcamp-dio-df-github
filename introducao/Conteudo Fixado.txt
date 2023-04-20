@@ -1,0 +1,5 @@
+Link para Efetuar o Download do Git: https://git-scm.com/downloads
+GitBash e um Terminal para otimizar uso do Git.
+
+Link do GitHub:https://github.com/d3dxd7/botcamp-dio-df-github
+Github e onde os arquivos vao ser guardado em nuvem para posterior Uso!
